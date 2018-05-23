@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMake", "CacheMake\CacheMake.csproj", "{53F3777E-CCD6-4B1F-81F9-1BBC433219FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F3777E-CCD6-4B1F-81F9-1BBC433219FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F3777E-CCD6-4B1F-81F9-1BBC433219FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F3777E-CCD6-4B1F-81F9-1BBC433219FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F3777E-CCD6-4B1F-81F9-1BBC433219FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
